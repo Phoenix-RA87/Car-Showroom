@@ -1,0 +1,40 @@
+C:\Users\Бэтман\Desktop\Портфолио\Приложения на С#\Car_Showroom\Car_Showroom\Car_Showroom\bin\Debug\Car_Showroom.exe.config
+C:\Users\Бэтман\Desktop\Портфолио\Приложения на С#\Car_Showroom\Car_Showroom\Car_Showroom\bin\Debug\Car_Showroom.exe
+C:\Users\Бэтман\Desktop\Портфолио\Приложения на С#\Car_Showroom\Car_Showroom\Car_Showroom\bin\Debug\Car_Showroom.pdb
+C:\Users\Бэтман\Desktop\Портфолио\Приложения на С#\Car_Showroom\Car_Showroom\Car_Showroom\obj\Debug\Car_Showroom.csprojAssemblyReference.cache
+C:\Users\Бэтман\Desktop\Портфолио\Приложения на С#\Car_Showroom\Car_Showroom\Car_Showroom\obj\Debug\Car_Showroom.RAAvtor.resources
+C:\Users\Бэтман\Desktop\Портфолио\Приложения на С#\Car_Showroom\Car_Showroom\Car_Showroom\obj\Debug\Car_Showroom.Properties.Resources.resources
+C:\Users\Бэтман\Desktop\Портфолио\Приложения на С#\Car_Showroom\Car_Showroom\Car_Showroom\obj\Debug\Car_Showroom.csproj.GenerateResource.cache
+C:\Users\Бэтман\Desktop\Портфолио\Приложения на С#\Car_Showroom\Car_Showroom\Car_Showroom\obj\Debug\Car_Showroom.csproj.CoreCompileInputs.cache
+C:\Users\Бэтман\Desktop\Портфолио\Приложения на С#\Car_Showroom\Car_Showroom\Car_Showroom\obj\Debug\Car_Showroom.exe
+C:\Users\Бэтман\Desktop\Портфолио\Приложения на С#\Car_Showroom\Car_Showroom\Car_Showroom\obj\Debug\Car_Showroom.pdb
+C:\Users\Бэтман\Desktop\Портфолио\Приложения на С#\Car_Showroom\Car_Showroom\Car_Showroom\obj\Debug\Car_Showroom.RAMenu.resources
+C:\Users\Бэтман\Desktop\Портфолио\Приложения на С#\Car_Showroom\Car_Showroom\Car_Showroom\obj\Debug\Car_Showroom.RAKA.resources
+C:\Users\Бэтман\Desktop\Портфолио\Приложения на С#\Car_Showroom\Car_Showroom\Car_Showroom\obj\Debug\Car_Showroom.RAVA.resources
+C:\Users\Бэтман\Desktop\Портфолио\Приложения на С#\Car_Showroom\Car_Showroom\Car_Showroom\obj\Debug\Car_Showroom.RAVD.resources
+C:\Users\Бэтман\Desktop\Портфолио\Приложения на С#\Car_Showroom\Car_Showroom\Car_Showroom\obj\Debug\Car_Showroom.RAVP.resources
+C:\Users\Бэтман\Desktop\Портфолио\Приложения на С#\Car_Showroom\Car_Showroom\Car_Showroom\obj\Debug\Car_Showroom.RAVR.resources
+C:\Users\Бэтман\Desktop\Портфолио\Приложения на С#\Car_Showroom\Car_Showroom\Car_Showroom\obj\Debug\Car_Showroom.RAJPA.resources
+C:\Users\Бэтман\Desktop\Портфолио\Приложения на С#\Car_Showroom\Car_Showroom\Car_Showroom\obj\Debug\Car_Showroom.RAJPR.resources
+C:\Users\Бэтман\Desktop\Портфолио\Приложения на С#\Car_Showroom\Car_Showroom\Car_Showroom\obj\Debug\Car_Showroom.RASO.resources
+C:\Users\Бэтман\Desktop\Портфолио\Приложения на С#\Car_Showroom\Car_Showroom\Car_Showroom\obj\Debug\Car_Showroom.RAATP.resources
+C:\Users\Бэтман\Desktop\Моё портфолио\Приложения на С#\Car_Showroom\Car_Showroom\Car_Showroom\bin\Debug\Car_Showroom.exe.config
+C:\Users\Бэтман\Desktop\Моё портфолио\Приложения на С#\Car_Showroom\Car_Showroom\Car_Showroom\bin\Debug\Car_Showroom.exe
+C:\Users\Бэтман\Desktop\Моё портфолио\Приложения на С#\Car_Showroom\Car_Showroom\Car_Showroom\bin\Debug\Car_Showroom.pdb
+C:\Users\Бэтман\Desktop\Моё портфолио\Приложения на С#\Car_Showroom\Car_Showroom\Car_Showroom\obj\Debug\Car_Showroom.csprojAssemblyReference.cache
+C:\Users\Бэтман\Desktop\Моё портфолио\Приложения на С#\Car_Showroom\Car_Showroom\Car_Showroom\obj\Debug\Car_Showroom.RAATP.resources
+C:\Users\Бэтман\Desktop\Моё портфолио\Приложения на С#\Car_Showroom\Car_Showroom\Car_Showroom\obj\Debug\Car_Showroom.RAAvtor.resources
+C:\Users\Бэтман\Desktop\Моё портфолио\Приложения на С#\Car_Showroom\Car_Showroom\Car_Showroom\obj\Debug\Car_Showroom.RAJPA.resources
+C:\Users\Бэтман\Desktop\Моё портфолио\Приложения на С#\Car_Showroom\Car_Showroom\Car_Showroom\obj\Debug\Car_Showroom.RAJPR.resources
+C:\Users\Бэтман\Desktop\Моё портфолио\Приложения на С#\Car_Showroom\Car_Showroom\Car_Showroom\obj\Debug\Car_Showroom.RAKA.resources
+C:\Users\Бэтман\Desktop\Моё портфолио\Приложения на С#\Car_Showroom\Car_Showroom\Car_Showroom\obj\Debug\Car_Showroom.RAMenu.resources
+C:\Users\Бэтман\Desktop\Моё портфолио\Приложения на С#\Car_Showroom\Car_Showroom\Car_Showroom\obj\Debug\Car_Showroom.Properties.Resources.resources
+C:\Users\Бэтман\Desktop\Моё портфолио\Приложения на С#\Car_Showroom\Car_Showroom\Car_Showroom\obj\Debug\Car_Showroom.RASO.resources
+C:\Users\Бэтман\Desktop\Моё портфолио\Приложения на С#\Car_Showroom\Car_Showroom\Car_Showroom\obj\Debug\Car_Showroom.RAVA.resources
+C:\Users\Бэтман\Desktop\Моё портфолио\Приложения на С#\Car_Showroom\Car_Showroom\Car_Showroom\obj\Debug\Car_Showroom.RAVD.resources
+C:\Users\Бэтман\Desktop\Моё портфолио\Приложения на С#\Car_Showroom\Car_Showroom\Car_Showroom\obj\Debug\Car_Showroom.RAVP.resources
+C:\Users\Бэтман\Desktop\Моё портфолио\Приложения на С#\Car_Showroom\Car_Showroom\Car_Showroom\obj\Debug\Car_Showroom.RAVR.resources
+C:\Users\Бэтман\Desktop\Моё портфолио\Приложения на С#\Car_Showroom\Car_Showroom\Car_Showroom\obj\Debug\Car_Showroom.csproj.GenerateResource.cache
+C:\Users\Бэтман\Desktop\Моё портфолио\Приложения на С#\Car_Showroom\Car_Showroom\Car_Showroom\obj\Debug\Car_Showroom.csproj.CoreCompileInputs.cache
+C:\Users\Бэтман\Desktop\Моё портфолио\Приложения на С#\Car_Showroom\Car_Showroom\Car_Showroom\obj\Debug\Car_Showroom.exe
+C:\Users\Бэтман\Desktop\Моё портфолио\Приложения на С#\Car_Showroom\Car_Showroom\Car_Showroom\obj\Debug\Car_Showroom.pdb
